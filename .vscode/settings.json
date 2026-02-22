@@ -1,0 +1,11 @@
+{
+  "css.validate": true,
+  "files.exclude": {
+    "**/.next": true
+  },
+  "css.lint.unknownAtRules": "ignore",
+  "editor.codeActionsOnSave": {},
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  }
+}
