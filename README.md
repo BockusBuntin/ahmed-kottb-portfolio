@@ -1,49 +1,80 @@
-# Ahmed Kottb - Portfolio 🚀
+# Ahmed Kottb
 
-Welcome to my personal portfolio project! I am a **Backend .NET Developer** specializing in building robust, scalable, and high-performance backend systems.
+### Backend .NET Developer | SQL Server Specialist
 
-## 🌟 Features
-- **Modern UI/UX**: Built with Next.js and Tailwind CSS for a premium feel.
-- **Responsive Design**: Fully optimized for mobile, tablet, and desktop screens.
-- **Interactive Typing Effect**: Showcases my specialization areas dynamically.
-- **Projects Showcase**: A dedicated section to display my work and technical skills.
-- **Clean Architecture**: Built with maintainability and scalability in mind.
-
-## 🛠️ Tech Stack
-- **Frontend**: [Next.js](https://nextjs.org/), [React](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/)
-- **Styling**: [Framer Motion](https://www.framer.com/motion/) (Animations), Lucide React (Icons)
-- **Backend Specialization**: ASP.NET Core, C#, Web API, Clean Architecture
-- **Database**: MySQL, SQL Server
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (v18 or higher)
-- npm or yarn
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/BockusBuntin/ahmed-kottb-portfolio.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd ahmed-kottb-portfolio
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Run the development server:
-   ```bash
-   npm run dev
-   ```
-   Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## 📧 Contact
-- **Name**: Ahmed Kottb
-- **Specialization**: .NET Full Track Developer
-- **Email**: [kuttbahmed@gmail.com]
+Professional backend developer focused on building secure, scalable, and maintainable systems using **ASP.NET Core** and **SQL Server**.
 
 ---
-I'm not primarily a Frontend Developer, but I can find my way around the code😉❤️.
+
+## 👨‍💻 About
+
+- Backend Software Engineer with hands-on experience in building RESTful APIs and business services.
+- Strong foundation in **C#**, **ASP.NET Core**, **Entity Framework Core**, and **SQL Server**.
+- Passionate about **Clean Architecture**, performance optimization, and writing production-ready code.
+- Interested in backend roles and collaboration opportunities on .NET projects.
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+- C#
+- ASP.NET Core
+- RESTful APIs
+- Entity Framework Core
+- LINQ
+- JWT Authentication & Role-Based Authorization
+
+### Database
+
+- SQL Server
+- T-SQL
+- Stored Procedures
+- Query Optimization
+- Database Design & Normalization
+
+### Architecture & Practices
+
+- Clean Architecture
+- SOLID Principles
+- Repository Pattern
+- Dependency Injection
+- Validation & Exception Handling
+
+### Tools
+
+- Git & GitHub
+- Visual Studio
+- Postman
+- Swagger / OpenAPI
+- Docker (Basic)
+
+---
+
+## 📌 Highlight Projects (Suggested Pins)
+
+- **Scalable Web API**: ASP.NET Core API with SQL Server and layered architecture.
+- **Auth & Identity Service**: JWT authentication and role-based access control.
+- **Clean Architecture Template**: Reusable backend project starter.
+
+---
+
+## 📊 GitHub Stats
+
+![Ahmed GitHub Stats](https://github-readme-stats.vercel.app/api?username=BockusBuntin&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BockusBuntin&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- Email: **kuttbahmed@gmail.com**
+- GitHub: **https://github.com/BockusBuntin**
+
+---
+
+## ✅ Professional Headline
+
+**Backend .NET Developer | ASP.NET Core | SQL Server | Building scalable, secure, and maintainable backend systems**
