@@ -43,8 +43,7 @@ Welcome to my personal portfolio project! I am a **Backend .NET Developer** spec
 ## 📧 Contact
 - **Name**: Ahmed Kottb
 - **Specialization**: .NET Full Track Developer
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email Address]
+- **Email**: [kuttbahmed@gmail.com]
 
 ---
-I'm not primarily a Frontend Developer, but I can find my way around the code.❤️😉
+I'm not primarily a Frontend Developer, but I can find my way around the code😉❤️.
