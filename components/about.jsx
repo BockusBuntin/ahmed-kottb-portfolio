@@ -2,7 +2,6 @@
 
 import { useRef, useEffect, useState } from "react"
 import { FileText, Mail, MapPin, Server } from "lucide-react"
-import Link from "next/link"
 
 export default function About() {
   const [isVisible, setIsVisible] = useState(false)
@@ -62,12 +61,13 @@ export default function About() {
           </div>
 
           <div className="text-center">
-            <Link
-              href="#"
+            <a
+              href="/Ahmed_Kuttb_CV.pdf"
+              download="Ahmed_Kuttb_CV.pdf"
               className="inline-flex items-center gap-2 px-8 py-4 rounded-lg bg-purple-500 text-white font-medium hover:bg-purple-600 transition-all hover:scale-105"
             >
               <FileText size={18} /> Download Resume
-            </Link>
+            </a>
           </div>
         </div>
       </div>
