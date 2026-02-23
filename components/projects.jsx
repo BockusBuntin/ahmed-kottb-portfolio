@@ -10,6 +10,14 @@ export default function Projects() {
 
   const projects = [
     {
+      title: "Desktop Quick Shutdown",
+      description:
+        "A professional C# .NET Windows Forms application that executes system shutdown when users click the mouse 4 times consecutively on the Desktop within 2 seconds. Features global mouse hook integration, system tray management, and administrator-level security.",
+      tags: ["C#", ".NET", "Windows Forms", "Windows API", "P/Invoke", "System Tray"],
+      liveUrl: "#",
+      githubUrl: "https://github.com/BockusBuntin/DesktopQuickShutdown",
+    },
+    {
       title: "E-Commerce REST API",
       description:
         "A full-featured RESTful API for an e-commerce platform built with ASP.NET Core. Includes authentication with JWT, product management, order processing, and MySQL integration.",
